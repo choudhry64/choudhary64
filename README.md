@@ -1,80 +1,74 @@
-<h1 align="center">Hi there 👋</h1>
+<!-- Header Banner -->
+<div align="center">
+  <h1>👋 Hi, I'm Sachin Chaudhary</h1>
+  <h3>2nd-year CSE Student | Web Developer | DSA Learner | Former Graphic Designer</h3>
+</div>
 
 ---
 
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Web%20Dev-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-LeetCode-orange?style=for-the-badge"/>
+</p>
+
+---
+
+## 🚀 About Me  
 I'm **Sachin Chaudhary**, a 2nd-year CSE student from Uttarakhand University —  
-still young in age but old in hustle.
+young in age but seasoned in hustle.
 
-My tech origin story started early.  
-Back in **11th class**, while people were just learning Photoshop basics,  
-I was already grinding as a **Full-Time Graphic Designer for 1.2 years**.  
-Deadlines, creativity, clients — sab handle kiya.  
-That phase carved discipline into me.  
+My journey began early.  
+While others were learning Photoshop basics in **11th class**,  
+I was grinding full-time as a **Graphic Designer for 1.2 years** —  
+handling clients, deadlines, and the creative chaos that shapes discipline.
 
-Now the grind has evolved.
+Now my energy is laser-focused on:
 
-Today, I’m focused on building a strong engineering backbone  
-through **Web Development** and **Data Structures & Algorithms** —  
-the two pillars that make a developer unstoppable.
+- **Web Development**  
+- **Data Structures & Algorithms (DSA)**  
+- **Problem Solving (LeetCode)**  
 
----
-
-## 🚀 Current Focus Areas
-- 🧠 **DSA** (daily LeetCode, building consistency)
-- 🌐 **Web Development**  
-  - HTML  
-  - CSS  
-  - JavaScript  
-- 🏗️ Strengthening core development skills  
-- 🛠️ Writing clean code & problem-solving mindset
+And building long-term dev consistency.
 
 ---
 
-## 🔧 My Technical Skills
-### **Development**
-- HTML  
-- CSS  
-- JavaScript  
-- VS Code  
-- IntelliJ Idea  
-
-### **Programming**
-- Java  
-- Python
-- Java Script
-
-### **Database**
-- SQL  
-
-### **Analytics (Past Experience)**
-- Advanced Excel  
-- Tableau  
-- Basic Data Analysis workflows  
-
-*(DA is something I’ve done… but my major focus is Dev + DSA now.)*
+## 🎯 Current Focus  
+- Backend basics  
+- DSA patterns  
+- Web dev projects  
+- Leveling up problem solving  
+- Clean code, real-world learning
 
 ---
 
-## 🏆 Leadership & Achievements
-- 🎯 **Google Student Campus Ambassador**  
-- 🏅 Former **GSSoC Campus Ambassador**
-
-These roles taught me community building, communication, and impact.
-
----
-
-## 🧭 Mindset
-Consistent.  
-Curious.  
-Building for the long-term.  
-Rooted in fundamentals, reaching for innovation.  
-Because real growth is quiet — but the results aren’t.
+## 🛠️ Skills  
+- **Languages:** Python, JavaScript  
+- **Web:** HTML, CSS, JS  
+- **DSA:** LeetCode, Patterns  
+- **Tools:** VS Code  
+- **Data:** SQL, Advanced Excel, Tableau  
 
 ---
 
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/sachinchaudhary79/
+## 🎓 Roles & Experience  
+- **Google Developer Student Club — Campus Ambassador**  
+- **GSSoC — Campus Ambassador**  
+- **Former Full-Time Graphic Designer (1.2 years)**  
 
+---
 
-### ⭐ Profile views
-![Views](https://komarev.com/ghpvc/?username=choudhary64&color=green)
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=choudhary64&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=choudhary64&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Connect With Me  
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blue?style=for-the-badge"></a>
+  <a href="[https://www.linkedin.com/in/sachin-chaudhary](https://www.linkedin.com/in/sachinchaudhary79/)/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
+</p>
