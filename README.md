@@ -39,8 +39,9 @@ the two pillars that make a developer unstoppable.
 - IntelliJ Idea  
 
 ### **Programming**
-- Python  
-- C / C++ (College-level)
+- Java  
+- Python
+- Java Script
 
 ### **Database**
 - SQL  
