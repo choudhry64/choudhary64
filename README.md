@@ -74,3 +74,7 @@ Because real growth is quiet — but the results aren’t.
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/sachinchaudhary79/
+
+
+### ⭐ Profile views
+![Views](https://komarev.com/ghpvc/?username=choudhary64&color=green)
