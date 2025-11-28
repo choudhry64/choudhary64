@@ -62,7 +62,6 @@ And building long-term dev consistency.
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=choudhary64&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=choudhary64&theme=tokyonight"/>
 </p>
 
 ---
